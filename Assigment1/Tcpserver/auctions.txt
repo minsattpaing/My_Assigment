@@ -1,0 +1,19 @@
+[
+    {
+        "auction_id": 1,
+        "title": "Diamond",
+        "description": "This is a diamond",
+        "end_time": "2025-12-12 12HOur 5Minutes",
+        "highest_bid": 10000.0,
+        "highest_bidder": "joja"
+    },
+    {
+        "auction_id": 2,
+        "title": "Gold",
+        "description": "This gold is the most rarely in the world",
+        "end_time": "2025-12-12 12Hour 12Minutes",
+        "highest_bid": 300.0,
+        "highest_bidder": "mai mai",
+        "details": "Hello My modify"
+    }
+]

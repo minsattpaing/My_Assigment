@@ -1,0 +1,32 @@
+[
+    {
+        "username": "MinSattPaing",
+        "password": "137900",
+        "contact_details": "09343555"
+    },
+    {
+        "username": "minsatt",
+        "password": "44444",
+        "contact_details": "09995452934"
+    },
+    {
+        "username": "jame",
+        "password": "12344",
+        "contact_details": "09343214231"
+    },
+    {
+        "username": "joojoo",
+        "password": "3333",
+        "contact_details": "09992332232"
+    },
+    {
+        "username": "Doe Doe",
+        "password": "137900",
+        "contact_details": "09943295432"
+    },
+    {
+        "username": "win kyaw ",
+        "password": "55555",
+        "contact_details": "099976576567"
+    }
+]
